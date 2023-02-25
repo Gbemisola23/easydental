@@ -1,1 +1,1 @@
-web: gunicorn easydentist.wsgi
+web: gunicorn easydental.wsgi
