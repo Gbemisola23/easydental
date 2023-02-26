@@ -13,3 +13,8 @@
         * Login/Signup: As a site admin I can add a login/signup button for new users so I can know the new customers.
         * Manage Bookings: As a site admin I can update appointment details so I can change bookings from pending to approved.
         * Delete Bookings: As a site admin I can delete appointment so I can avoid double bookings.
+
+## Bugs
+* I had the error Secretkey is improperly configured during the deployment process and it has been solved.
+* An application error was thrown as a result of a typo error in procfile but it has been resolved. 
+
